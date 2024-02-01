@@ -1,4 +1,4 @@
 # MahanSnowflake
 Snowflake all commands.
 <br>
-Author-Mahantesh Swami.
+Author-Mahantesh Swami (Snowflake Developer).
