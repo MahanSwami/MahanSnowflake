@@ -1,3 +1,4 @@
 # MahanSnowflake
-Snowflake all commands 
-Auther-Mahantesh Swami
+Snowflake all commands.
+<br>
+Author-Mahantesh Swami.
